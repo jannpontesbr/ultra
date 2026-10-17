@@ -16,23 +16,13 @@ Você valoriza o meu trabalho? Inscreva-se no Patreon e tenha acesso a toda a bi
 ## Propósito do Pack e Instalação
 Este pacote foi desenvolvido para usuários que buscam uma instalação direta, sem a necessidade de montar tudo do zero ou lidar com erros comuns causados por arquivos desatualizados ou mal configurados.
 ### Como instalar corretamente:
- 1. Conecte o seu cartão SD ao computador e **exclua** as seguintes pastas e arquivos:
-   * atmosphere
-   * bootloader
-   * config
-   * scripts
-   * boot.dat
-   * boot.ini
-   * exosphere.ini
-   * hbmenu.nro
-   * payload.bin
+ 1. Conecte o seu cartão SD ao computador , mantenha pasta emummc(emunand) pasta nintendo; o restante que nao seja essencial ou que se repita ##Exclua do cartao
  2. Em seguida, copie todos os arquivos do arquivo ZIP  diretamente para a **raiz do seu cartão SD** e pronto!
 
 Tudo já vem completamente configurado para funcionar de forma correta, sem a necessidade de ajustes adicionais.
 
 alterações para português
-incluem overclocking ,hekate em português
-,dbi,cnx updater(nao atualize por ele atmosfere avisado),cyberfoil,mil manager,nexps,pkhouse(para fins de backup)
+incluem overclocking ,dbi,cnx updater(nao atualize por ele atmosfere avisado),)
 bom jogo a todos
 
 esta faltando alguma coisa? me avise farei teste e atualizarei o pacote para acrecenta-lo
